@@ -8,9 +8,9 @@ import skfuzzy.control as ctrl
 
 st.title('Prediksi Harga Jual, Estimasi Masa Simpan, dan Kualitas Buah Pisang 🍌')
 st.write(' ')
-st.sidebar.title('✨ Projek Akhir Fuzzy ✨')
-st.sidebar.write('#### 😺 Assasa Salma - 123230160')
-st.sidebar.write('#### 🐹 Mufidah Shofi - 123230133')
+st.sidebar.title('✨ Metode SPK : Fuzzy ✨')
+st.sidebar.write('#### 😺 Assasa Salma')
+st.sidebar.write('#### 🐹 Mufidah Shofi Aqila')
 tampilan = st.sidebar.selectbox('Pilih Menu', ["Lihat Tampilan Tabel Dataset", "Hitung Prediksi"])
 
 # import dataset yang dibutuhkan
